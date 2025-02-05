@@ -13,7 +13,7 @@ const timelineEvents = [
     year: "may 2024—present",
     title: "research",
     company: "kellis lab @ mit",
-    description: "working with really smart ppl on interactive visualizations for high-dimensional data.",
+    description: "working with ppl 10x smarter than me on interactive visualizations for high-dimensional data.",
   },
   {
     year: "sept 2021—present",

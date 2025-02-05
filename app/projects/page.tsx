@@ -35,7 +35,7 @@ interface Project {
   description: string | JSX.Element;
   link: string;
   repository: string;
-  featured: boolean;
+  featured?: boolean;
 }
 
 const ProjectCard = ({ project }: { project: Project }) => {
