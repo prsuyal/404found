@@ -26,7 +26,7 @@ const projects = [
   {
     title: "404 found",
     description: "the site you're on rn!",
-    link: "https://404found.vercel.app",
+    link: "https://404found-lac.vercel.app",
     repository: "https://github.com/prsuyal/404found",
   },
 ];
